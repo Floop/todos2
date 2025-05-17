@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "floop-todos2-88"
-          entrypoint: "mod.ts"
+          entrypoint: "maint.ts"
           root: "build"
           
           
