@@ -39,6 +39,6 @@ jobs:
         with:
           project: "floop-todos2-88"
           entrypoint: "maint.ts"
-          root: "build"
+          root: "."
           
           
